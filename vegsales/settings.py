@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'vegsales.urls'
+ROOT_URLCONF = '*'
 
 TEMPLATES = [
     {
